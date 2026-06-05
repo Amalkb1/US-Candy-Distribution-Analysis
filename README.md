@@ -117,6 +117,7 @@ Provides:
 * Total Orders
 * Sales Trend
 * Factory Profit Contribution
+<img width="1333" height="742" alt="Overview" src="https://github.com/user-attachments/assets/fb6fdaf0-394e-4045-8ef0-0eb8a06c1fa0" />
 
 ---
 
@@ -128,6 +129,7 @@ Provides:
 * Order Distribution by State
 * Route Analysis
 * Geographic Demand Patterns
+<img width="1321" height="727" alt="Geographic Dashboard" src="https://github.com/user-attachments/assets/cda23b18-fe47-4f83-a08a-82c5cbd1a95f" />
 
 ---
 
@@ -139,6 +141,7 @@ Provides:
 * Product Performance
 * Division Analysis
 * Top Margin Products
+<img width="1310" height="735" alt="Product Dashboard" src="https://github.com/user-attachments/assets/9d2f59d6-7e66-4d43-9ae1-b10fb8743c9d" />
 
 ---
 
@@ -150,6 +153,7 @@ Provides:
 * Factory Efficiency
 * Average Shipping Distance
 * Factory Contribution Analysis
+<img width="1311" height="733" alt="Factory Dashboard" src="https://github.com/user-attachments/assets/e8eac2ce-9092-4fd8-9cc5-f09a23d53554" />
 
 ---
 
@@ -160,6 +164,7 @@ Provides:
 * Target vs Actual Performance
 * Division Comparison
 * Profit Contribution Tree Analysis
+<img width="1312" height="730" alt="Target Dashboard" src="https://github.com/user-attachments/assets/06eb82dd-1f2c-41f5-86d3-c2ae1202dd84" />
 
 ---
 
@@ -173,6 +178,7 @@ Methodology:
 * Identify nearest available factory
 * Compare current average distance vs optimized distance
 * Estimate potential transportation savings
+<img width="1612" height="603" alt="shpping distance" src="https://github.com/user-attachments/assets/37bd1c57-ffd0-4d08-a2a9-13de97068d34" />
 
 ---
 
